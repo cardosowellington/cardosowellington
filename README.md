@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/cardoso-wellington/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.instagram.com/cardoso.s.wellington/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
   <a href ="https://compontoweb.com.br/" target="_blank"><img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white"></a> 
+
 </div>
 
 
@@ -18,3 +19,4 @@
 - 🔭 Estudando sobre wordpress, php, javascript e um pouco de inglês. 
 - 🌱 Atualmente estou aprendendo a criar plugins para serem usados em projetos em wordpress.
 - ⚡ Gosto de cubo mágico
+- perfil antigo: https://github.com/wellingtoncardoso
