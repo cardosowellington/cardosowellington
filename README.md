@@ -16,7 +16,7 @@
 
 
 ### Itens sobre mim:
-- 🔭 Estudando sobre wordpress, php, javascript e um pouco de inglês. 
-- 🌱 Atualmente estou aprendendo a criar plugins para serem usados em projetos em wordpress.
-- ⚡ Gosto de cubo mágico
-- perfil antigo: https://github.com/wellingtoncardoso
+- 🔭 Atualmente estudando WordPress, PHP, JavaScript e aprimorando meu inglês.
+- 🌱 Aprendendo a desenvolver plugins personalizados para WordPress, focando em soluções para projetos reais.
+- 🐍 Explorando o mundo do Python, expandindo minhas habilidades além do ecossistema web.
+- ⚡ Curiosidades: Sou entusiasta do cubo mágico e gosto de desafios que estimulam o raciocínio lógico.
