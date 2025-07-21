@@ -16,7 +16,7 @@
 
 
 ### Itens sobre mim:
-- 🔭 Atualmente estudando WordPress, PHP, JavaScript e aprimorando meu inglês.
-- 🌱 Aprendendo a desenvolver plugins personalizados para WordPress, focando em soluções para projetos reais.
-- 🐍 Explorando o mundo do Python, expandindo minhas habilidades além do ecossistema web.
-- ⚡ Curiosidades: Sou entusiasta do cubo mágico e gosto de desafios que estimulam o raciocínio lógico.
+- 🔭 Atualmente atuo como desenvolvedor WordPress, criando soluções sob medida para web.
+- 🌱 Estou desenvolvendo projetos reais em WordPress, com foco em performance e usabilidade.
+- 🐍 Explorando o universo Python para expandir minhas habilidades além do front-end e CMS.
+- ⚡ Curiosidades: entusiasta do cubo mágico e apaixonado por desafios que estimulam o raciocínio lógico.
